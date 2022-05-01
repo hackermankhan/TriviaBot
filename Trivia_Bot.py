@@ -1,4 +1,4 @@
-#import pyautogui
+import pyautogui
 import urllib
 from bs4 import BeautifulSoup
 import requests
